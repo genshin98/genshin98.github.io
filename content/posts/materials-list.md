@@ -1,12 +1,8 @@
-+++
-
+---
 title = "学习资料汇总"
-
 date = 2022-05-04
-
 weight = 3
-
-+++
+---
 
 ## Competitive Programming
 
