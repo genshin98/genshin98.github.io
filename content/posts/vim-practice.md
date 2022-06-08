@@ -15,5 +15,6 @@ weight: 3
 + [x] 6.3 40mins
 + [x] 6.5 40mins
 + [x] 6.7 40mins
++ [x] 6.8 40mins
 
 
