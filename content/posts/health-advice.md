@@ -47,3 +47,4 @@ weight: 1
 
 + [x] 6.6 20mins
 + [x] 6.7 20mins
++ [x] 6.8 20mins
